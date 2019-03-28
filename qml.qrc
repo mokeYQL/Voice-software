@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LinePage.qml</file>
+        <file>StationPage.qml</file>
+        <file>BroadPage.qml</file>
+        <file>MP3Page.qml</file>
+        <file>PerPage.qml</file>
+        <file>PopTemplate.qml</file>
+        <file>IDWarning.qml</file>
+        <file>PopStation.qml</file>
+        <file>TabCurrent0.qml</file>
+        <file>TabCurrent1.qml</file>
+        <file>TabCurrent2.qml</file>
+        <file>TabCurrent3.qml</file>
+    </qresource>
+</RCC>
